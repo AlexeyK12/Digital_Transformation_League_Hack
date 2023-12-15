@@ -6,6 +6,7 @@ import os
 import streamlit as st
 import psycopg2
 from sqlalchemy import create_engine
+import openpyxl
 from IPython.display import display, HTML, Javascript, Image
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
