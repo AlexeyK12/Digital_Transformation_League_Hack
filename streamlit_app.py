@@ -217,7 +217,7 @@ result_df = pd.DataFrame(result, columns=['id', 'фио', 'вероятност�
 engine = create_engine(
     f'postgresql://{db_params["user"]}:{db_params["password"]}@{db_params["host"]}:{db_params["port"]}/{db_params["database"]}'
 ) 
-result_df.to_sql('results', engine, index=False, if_exists='replace')  
+result_df.to_sql('results', engine, index=False, if_exists='append')  
 
 # основной дашборд
 fig = px.bar(result.sort_values('вероятность_увольнения', ascending=False).
