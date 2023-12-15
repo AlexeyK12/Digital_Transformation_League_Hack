@@ -7,4 +7,4 @@ IPython==7.26.0
 matplotlib==3.4.3
 plotly==5.3.1
 catboost==0.26
-smtplib==0.1.1
+
