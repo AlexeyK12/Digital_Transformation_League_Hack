@@ -159,7 +159,7 @@ st.sidebar.markdown(
     unsafe_allow_html=True
 )
 max_period = df['period'].max()
-selected_period = st.sidebar.number_input("номер периода", min_value=df['period'].min(), max_value=df['period'].max(), value=max_period, step=1, key="selected_period")
+selected_period = st.sidebar.number_input("5-ти дневная рабочая неделя", min_value=df['period'].min(), max_value=df['period'].max(), value=max_period, step=1, key="selected_period")
 
 # формирование обучающей и контрольной выборок
 train = df.query(f'period < {selected_period}')
