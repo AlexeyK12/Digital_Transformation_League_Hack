@@ -68,7 +68,7 @@ except (Exception, psycopg2.Error) as error:
 # выгружаем прогнозы из БД 
 sql_query = """
     SELECT *
-    FROM public.dataset_V
+    FROM public.dataset
             """
 cursor.execute(sql_query)
 
