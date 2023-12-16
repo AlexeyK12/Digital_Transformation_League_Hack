@@ -377,7 +377,7 @@ def send_email(subject, body, to_email):
         server.sendmail(smtp_username, to_email, message.as_string())
 
 st.sidebar.text("---------------------------------------")
-send_email_button = st.sidebar.button("Отправить рассылку начальникам отделов.")
+send_email_button = st.sidebar.button("Отправить рассылку начальникам отделов")
 
 if send_email_button:
     chiefs_df = pd.DataFrame({
