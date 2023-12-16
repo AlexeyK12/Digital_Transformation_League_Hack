@@ -84,5 +84,5 @@
     - os
 
 
-![Python](https://i.ytimg.com/vi/g0p2Q-H7TPo/hqdefault.jpg)
+![Python](https://reallearnings.co.in/wp-content/uploads/2021/12/python-768x480.jpg)
 ![CatBoost](http://aishelf.org/wp-content/uploads/2019/04/catboost-768x384.png)
