@@ -2,11 +2,11 @@
 
 
 # <a style="color:cornflowerblue;">Разработка комплексного аналитического решения для контроля эффективности сотрудников, включая визуализацию, машинное обучение и взаимодействие с базой данных</a>
-![Python](https://sun9-73.userapi.com/impg/mBPiNRTUpoGbvGmZjhd6wwyA9lufh7OpV5aOZA/9glj_FxN88E.jpg?size=604x381&quality=96&sign=713e7202a77e0bc8db39aad05282b8ca&type=album)
-
 ![Streamlit](https://images.datacamp.com/image/upload/v1640050215/image27_frqkzv.png)
-![Plotly](https://www.pvsm.ru/images/2017/07/28/prizrak-lokomotiva-ili-birjevoi-rynok-cherez-prizmu-korrelyacii-7.jpg)
+
+![Python](https://i.ytimg.com/vi/g0p2Q-H7TPo/hqdefault.jpg)
 ![CatBoost](http://aishelf.org/wp-content/uploads/2019/04/catboost-300x150.png)
+![Plotly](https://www.pvsm.ru/images/2017/07/28/prizrak-lokomotiva-ili-birjevoi-rynok-cherez-prizmu-korrelyacii-7.jpg)
 ![Docker](https://codeitworld.com/wp-content/uploads/2020/05/docker-logo.png)
 ![Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
