@@ -1,9 +1,10 @@
 <img src="fon_rep.png" alt="Image" width="900"/>
 
 
-<p align="center">
-  <a style="color:cornflowerblue; font-size: 48px;">Разработка комплексного аналитического решения для контроля эффективности сотрудников, включая визуализацию, машинное обучение и взаимодействие с базой данных</a>
+<p align="center" style="font-size: 24px;">
+  <a style="color:cornflowerblue;">Разработка комплексного аналитического решения для контроля эффективности сотрудников, включая визуализацию, машинное обучение и взаимодействие с базой данных</a>
 </p>
+
 
 
 ![Streamlit](https://images.datacamp.com/image/upload/v1640050215/image27_frqkzv.png)
