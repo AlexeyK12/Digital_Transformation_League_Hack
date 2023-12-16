@@ -4,7 +4,7 @@
 # <a style="color:cornflowerblue;">Разработка комплексного аналитического решения для контроля эффективности сотрудников, включая визуализацию, машинное обучение и взаимодействие с базой данных</a>
 ![Python](https://www.python.org/static/community_logos/python-logo.png)
 ![Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
-![Streamlit](https://docs.streamlit.io/0.96.0/_static/logo.png)
+![Streamlit](https://images.datacamp.com/image/upload/v1640050215/image27_frqkzv.png)
 ![Plotly](https://images.plot.ly/plotly-documentation/images/logo/new-branding/plotly-logomark.png)
 ![CatBoost](https://catboost.ai/docs/logo/catboost-logo.png)
 ![Docker](https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png)
