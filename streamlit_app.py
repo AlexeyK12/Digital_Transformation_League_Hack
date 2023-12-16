@@ -393,7 +393,7 @@ if send_email_button:
         #send_email(email_subject, email_body, chief_email)
         #st.warning(f"Не найден адрес электронной почты для начальника отдела {department_name}")
 
-    st.success("Рассылка успешно отправлена.")
+    st.success("Рассылка успешно отправлена")
 
 
 # закрываем соединение с БД
