@@ -376,7 +376,8 @@ def send_email(subject, body, to_email):
         server.login(smtp_username, smtp_password)
         server.sendmail(smtp_username, to_email, message.as_string())
 
-send_email_button = st.button("Отправить рассылку начальникам отделов")
+st.sidebar.text("---------------------------------------")
+send_email_button = st.sidebar.button("Отправить рассылку начальникам отделов")
 
 if send_email_button:
     chiefs_df = pd.DataFrame({
@@ -390,10 +391,11 @@ if send_email_button:
         email_body = f"Начальнику подразделения - {department_name},\n\n"
         department_df = result[result['id'].str.startswith(department_name)].sort_values('вероятность_увольнения', ascending=False)
         email_body += department_df.to_string(index=False)
-        #send_email(email_subject, email_body, chief_email)
-        #st.warning(f"Не найден адрес электронной почты для начальника отдела {department_name}")
+        # send_email(email_subject, email_body, chief_email)
+        # st.warning(f"Не найден адрес электронной почты для начальника отдела {department_name}")
 
     st.success("Рассылка успешно отправлена")
+    st.sidebar.empty()
 
 
 # закрываем соединение с БД
