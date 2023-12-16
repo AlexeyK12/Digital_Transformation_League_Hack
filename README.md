@@ -4,7 +4,11 @@
 # <a style="color:cornflowerblue;">Разработка комплексного аналитического решения для контроля эффективности сотрудников, включая визуализацию, машинное обучение и взаимодействие с базой данных</a>
 ![Python](https://www.python.org/static/community_logos/python-logo.png)
 ![Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
-![Docker](https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png)
+![Streamlit](https://docs.streamlit.io/0.96.0/_static/logo.png)
+![Plotly](https://images.plot.ly/plotly-documentation/images/logo/new-branding/plotly-logomark.png)
+![CatBoost](https://catboost.ai/docs/logo/catboost-logo.png)
+![Docker](https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png)
+
 
 ### Модуль 1: Подключение к Базе Данных
 Задание параметров подключения к базе данных PostgreSQL.
