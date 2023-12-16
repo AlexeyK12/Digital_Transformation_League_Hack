@@ -4,10 +4,6 @@
 # <a style="color:cornflowerblue;">Разработка комплексного аналитического решения для контроля эффективности сотрудников, включая визуализацию, машинное обучение и взаимодействие с базой данных</a>
 ![Streamlit](https://images.datacamp.com/image/upload/v1640050215/image27_frqkzv.png)
 
-![Python](https://i.ytimg.com/vi/g0p2Q-H7TPo/hqdefault.jpg)
-![CatBoost](http://aishelf.org/wp-content/uploads/2019/04/catboost-768x384.png)
-
-
 ### Модуль 1: Подключение к Базе Данных
 Задание параметров подключения к базе данных PostgreSQL.
 Использование библиотеки psycopg2 для установления соединения.
@@ -82,7 +78,11 @@
 
 11. **Интерактивные графики и дашборды:**
     - Grafana (для визуализации внешних дашбордов)
-
+    - 
 12. **Системные операции с файлами и директориями:**
     - io
     - os
+
+
+![Python](https://i.ytimg.com/vi/g0p2Q-H7TPo/hqdefault.jpg)
+![CatBoost](http://aishelf.org/wp-content/uploads/2019/04/catboost-768x384.png)
