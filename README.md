@@ -8,7 +8,7 @@
 
 ![Streamlit](https://images.datacamp.com/image/upload/v1640050215/image27_frqkzv.png)
 
-[![Открыть приложение](https://img.shields.io/badge/Открыть_приложение-orange?style=for-the-badge&logo=appveyor)](https://digitaltransformationleaguehack-cksqb8ahirrweambxgd4es.streamlit.app/)
+[![Открыть приложение](https://img.shields.io/badge/Открыть_приложение-orange?style=for-the-badge&logo=appveyor)](https://digitaltransformationleaguehack-hqka6umcdxxhzgrrzk7eeq.streamlit.app/)
 
 ### Модуль 1: Подключение к Базе Данных
 - Задание параметров подключения к базе данных PostgreSQL.
